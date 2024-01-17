@@ -6,9 +6,10 @@ You may use even or odd numbers of teeth.  Currently there is a bug that makes t
 
 To use this script:
 
-Open Maya.
-Open the Script Editor.
-Paste this script into a Python tab.
+Open Maya
+Open the Script Editor
+Paste this script into a Python tab
 Execute the script
+
 
 You may also middle-mouse drag the code to the shelf to create a custom button in Maya
